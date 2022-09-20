@@ -13,7 +13,7 @@ class App extends Component {
       { name: "Limca", price: 3, id: 0 },
       { name: "Fanta", price: 1, id: 0 },
 
-      { name: "Sandwich", price: 1, id: 1 },
+      { name: "French Fries", price: 1, id: 1 },
       { name: "Rice", price: 2, id: 1 },
       { name: "Pizza", price: 3, id: 1 },
       { name: "Burger", price: 2, id: 1 },
